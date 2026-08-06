@@ -30,7 +30,7 @@ Dragon Flight is a fun, fast-paced browser game inspired by the classic endless 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dragon-flight.git
+https://github.com/Om-WebDev/Dragon-Flight-Game.git
 ```
 
 ### Navigate to the project
